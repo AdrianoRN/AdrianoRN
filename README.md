@@ -1,7 +1,7 @@
 ### Olá eu sou o Adriano
 
-- 🔭 Hoje trabalhando no setor privado no ramo industrial mais buscando um espaço para iniciar minha carreira como DEV
-- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas- 
+- 🔭 Hoje estou trabalhando no setor privado no ramo industrial, mas buscando um espaço para iniciar minha carreira como DEV.
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
 - <div style="align-items: center;">📫 Contatos:
   <a href ="https://api.whatsapp.com/send?phone=5535999417367&text=Ol%C3%A1%20tudo%20bem%3F"><img align="center" alt="Adriano-WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:adrianoribeiro589@gmail.com"><img align="center" alt="Adriano-gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
