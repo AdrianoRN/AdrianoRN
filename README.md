@@ -20,7 +20,7 @@
   <img align="center" alt="Adriano-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">     
   <img align="center" alt="Adriano-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Adriano-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Adriano-Kotlin" height="50" width="60" src="[https://www.jsdelivr.com/package/npm/kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)">
+  <img align="center" alt="Adriano-Kotlin" height="50" width="60" src="(https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)">
   
 </div>
   
